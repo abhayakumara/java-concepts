@@ -25,5 +25,8 @@ bin/
 ### VS Code ###
 .vscode/
 
+.idea
+java-concepts.iml
+
 ### Mac OS ###
 .DS_Store
