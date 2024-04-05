@@ -1,1 +1,1 @@
-### Java Core Concepts in Once place
+### Java Core Concepts in One place
